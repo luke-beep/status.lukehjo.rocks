@@ -13,7 +13,6 @@ status-website:
   logoUrl: https://github.com/luke-beep/status.lukehjo.rocks/blob/master/assets/asset.svg
   name: lukehjo.rocks Status Page
   introTitle: "lukehjo.rocks Status Page"
-  introMessage:
   navbar:
     - title: Status
       href: /
