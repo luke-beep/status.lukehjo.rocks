@@ -4,17 +4,16 @@ repo: status.lukehjo.rocks # The name of this repository
 
 sites:
   - name: lukehjo.rocks
-    url: https://lukehjo.rocks/
+    url: https://lukehjo.rocks
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.lukehjo.rocks
-  # baseUrl: /your-repo-name
-  logoUrl: https://github.com/luke-beep/status.lukehjo.rocks/blob/master/assets/asset.svg
-  name: lukehjo.rocks Status Page
-  introTitle: "lukehjo.rocks Status Page"
-  introMessage: Welcome to lukehjo.rocks's Status Page!
+  logoUrl: https://raw.githubusercontent.com/luke-beep/status.lukehjo.rocks/master/assets/asset.svg
+  name: lukehjo.rocks Status
+  introTitle: "lukehjo.rocks Log Status"
+  introMessage: "Welcome to lukehjo.rocks Status Page!"
   navbar:
     - title: Status
       href: /
